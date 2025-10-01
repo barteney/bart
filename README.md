@@ -12,7 +12,7 @@
     <br />
     <a href="https://hashirshoaeb.github.io">About Me</a>
   </p>
-</p>
+</p> 
 
 ![GitHub contributors](https://img.shields.io/github/contributors/hashirshoaeb/home?color=ffcc66&style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/hashirshoaeb/home?color=ffcc66&style=for-the-badge)
