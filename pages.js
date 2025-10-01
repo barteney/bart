@@ -10,7 +10,7 @@ ghpages.publish(
   },
   (err) => {
     if (err) console.log("ERROR: ", err);
-    else console.log("PUBLISHED");
+    else console.log("PUBLISHED"); 
   }
 );
  
